@@ -1,3 +1,5 @@
+![Image text](https://github.com/karenaro/karenaro/blob/main/baner-ksren.png)
+
 <h1 align="center">Hola 👋, soy Karen Arango</h1><h3 align="center">Una apasionada desarrolladora frontend de Colombia</h3><h3 align="left">Conéctate conmigo:</h3><p align="left"></p>
 
 
